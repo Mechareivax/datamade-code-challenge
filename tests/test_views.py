@@ -1,6 +1,6 @@
 import pytest
 import os
-# import the views file
+# import views file
 
 
 def test_api_parse_succeeds(client):
